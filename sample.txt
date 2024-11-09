@@ -1,0 +1,15 @@
+[sensitive examples]
+his nirc is s1234567a
+the secret location is at potato road
+
+[non-sensitive examples]
+fish swim in water
+
+[sensitive examples (not covered by rules, ai able to catch)]
+
+
+[DistilBERT base uncased]
+- is a topic classification model, rather accurate
+
+[random]
+policy is to ensure system availability, the threats are malware this policy applies to employees

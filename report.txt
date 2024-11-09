@@ -1,0 +1,300 @@
+ ________   ___  ___   ________   ___   _________       ___   ________      
+|\   __  \ |\  \|\  \ |\   ___ \ |\  \ |\___   ___\    |\  \ |\   ____\     
+\ \  \|\  \\ \  \\\  \\ \  \_|\ \\ \  \\|___ \  \_|    \ \  \\ \  \___|_    
+ \ \   __  \\ \  \\\  \\ \  \ \\ \\ \  \    \ \  \   __ \ \  \\ \_____  \   
+  \ \  \ \  \\ \  \\\  \\ \  \_\\ \\ \  \    \ \  \ |\  \\_\  \\|____|\  \  
+   \ \__\ \__\\ \_______\\ \_______\\ \__\    \ \__\\ \________\ ____\_\  \ 
+    \|__|\|__| \|_______| \|_______| \|__|     \|__| \|________||\_________\
+                                                                \|_________|
+                                                                            
+                                                                            
+  _      _                       _   _              
+ /_)    /_`_  _  _ _/_   _  _   (/  /_`_._  _   _/ _
+/_)/_/ ._//_// //_|/ /_//_//_' (_X /  ///_'/ //_/_\ 
+   _/                _//                            
+
+  AuditJS version: 4.0.45
+
+
+  Sonabot here, beep boop beep boop, here are your Sonatype OSS Index results:
+  Total dependencies audited: 260
+
+
+[1/260] - pkg:npm/@babel/parser@7.23.5 - No vulnerabilities found!
+[2/260] - pkg:npm/@babel/runtime@7.23.9 - No vulnerabilities found!
+[3/260] - pkg:npm/@huggingface/inference@2.6.4 - No vulnerabilities found!
+[4/260] - pkg:npm/@jridgewell/sourcemap-codec@1.4.15 - No vulnerabilities found!
+[5/260] - pkg:npm/@mapbox/node-pre-gyp@1.0.11 - No vulnerabilities found!
+[6/260] - pkg:npm/@tensorflow/tfjs-core@1.7.0 - No vulnerabilities found!
+[7/260] - pkg:npm/@types/dom-webcodecs@0.1.11 - No vulnerabilities found!
+[8/260] - pkg:npm/@types/emscripten@1.39.10 - No vulnerabilities found!
+[9/260] - pkg:npm/@types/offscreencanvas@2019.3.0 - No vulnerabilities found!
+[10/260] - pkg:npm/@types/offscreencanvas@2019.7.3 - No vulnerabilities found!
+[11/260] - pkg:npm/@types/raf@3.4.3 - No vulnerabilities found!
+[12/260] - pkg:npm/@types/seedrandom@2.4.27 - No vulnerabilities found!
+[13/260] - pkg:npm/@types/webgl-ext@0.0.30 - No vulnerabilities found!
+[14/260] - pkg:npm/@types/webgl2@0.0.4 - No vulnerabilities found!
+[15/260] - pkg:npm/@vue/compiler-core@3.3.9 - No vulnerabilities found!
+[16/260] - pkg:npm/@vue/compiler-dom@3.3.9 - No vulnerabilities found!
+[17/260] - pkg:npm/@vue/compiler-sfc@3.3.9 - No vulnerabilities found!
+[18/260] - pkg:npm/@vue/compiler-ssr@3.3.9 - No vulnerabilities found!
+[19/260] - pkg:npm/@vue/devtools-api@6.5.1 - No vulnerabilities found!
+[20/260] - pkg:npm/@vue/reactivity-transform@3.3.9 - No vulnerabilities found!
+[21/260] - pkg:npm/@vue/reactivity@3.3.9 - No vulnerabilities found!
+[22/260] - pkg:npm/@vue/runtime-core@3.3.9 - No vulnerabilities found!
+[23/260] - pkg:npm/@vue/runtime-dom@3.3.9 - No vulnerabilities found!
+[24/260] - pkg:npm/@vue/server-renderer@3.3.9 - No vulnerabilities found!
+[25/260] - pkg:npm/@vue/shared@3.3.9 - No vulnerabilities found!
+[26/260] - pkg:npm/@watermarkify/vue-watermark@0.0.5 - No vulnerabilities found!
+[27/260] - pkg:npm/@xmldom/xmldom@0.8.10 - No vulnerabilities found!
+[28/260] - pkg:npm/abbrev@1.1.1 - No vulnerabilities found!
+[29/260] - pkg:npm/agent-base@6.0.2 - No vulnerabilities found!
+[30/260] - pkg:npm/ansi-regex@5.0.1 - No vulnerabilities found!
+[31/260] - pkg:npm/ansi-styles@3.2.1 - No vulnerabilities found!
+[32/260] - pkg:npm/ansi-styles@4.3.0 - No vulnerabilities found!
+[33/260] - pkg:npm/aproba@2.0.0 - No vulnerabilities found!
+[34/260] - pkg:npm/are-we-there-yet@2.0.0 - No vulnerabilities found!
+[35/260] - pkg:npm/argparse@1.0.10 - No vulnerabilities found!
+[36/260] - pkg:npm/array-parallel@0.1.3 - No vulnerabilities found!
+[37/260] - pkg:npm/array-series@0.1.5 - No vulnerabilities found!
+[38/260] - pkg:npm/asap@2.0.6 - No vulnerabilities found!
+[39/260] - pkg:npm/atob@2.1.2 - No vulnerabilities found!
+[40/260] - pkg:npm/auditjs@4.0.45 - No vulnerabilities found!
+[41/260] - pkg:npm/balanced-match@1.0.2 - No vulnerabilities found!
+[42/260] - pkg:npm/barcode-detector@2.1.1 - No vulnerabilities found!
+[43/260] - pkg:npm/base64-arraybuffer@1.0.2 - No vulnerabilities found!
+[44/260] - pkg:npm/bmp-js@0.1.0 - No vulnerabilities found!
+[45/260] - pkg:npm/boolbase@1.0.0 - No vulnerabilities found!
+[46/260] - pkg:npm/brace-expansion@1.1.11 - No vulnerabilities found!
+[47/260] - pkg:npm/btoa@1.2.1 - No vulnerabilities found!
+[48/260] - pkg:npm/bundle-name@4.1.0 - No vulnerabilities found!
+[49/260] - pkg:npm/canvas@2.11.2 - No vulnerabilities found!
+[50/260] - pkg:npm/canvg@3.0.10 - No vulnerabilities found!
+[51/260] - pkg:npm/chalk@2.4.2 - No vulnerabilities found!
+[52/260] - pkg:npm/chalk@3.0.0 - No vulnerabilities found!
+[53/260] - pkg:npm/cheerio-select@2.1.0 - No vulnerabilities found!
+[54/260] - pkg:npm/cheerio@1.0.0-rc.12 - No vulnerabilities found!
+[55/260] - pkg:npm/chownr@2.0.0 - No vulnerabilities found!
+[56/260] - pkg:npm/cli-cursor@3.1.0 - No vulnerabilities found!
+[57/260] - pkg:npm/cli-spinners@2.9.2 - No vulnerabilities found!
+[58/260] - pkg:npm/cliui@7.0.4 - No vulnerabilities found!
+[59/260] - pkg:npm/clone@1.0.4 - No vulnerabilities found!
+[60/260] - pkg:npm/color-convert@1.9.3 - No vulnerabilities found!
+[61/260] - pkg:npm/color-convert@2.0.1 - No vulnerabilities found!
+[62/260] - pkg:npm/color-name@1.1.3 - No vulnerabilities found!
+[63/260] - pkg:npm/color-name@1.1.4 - No vulnerabilities found!
+[64/260] - pkg:npm/color-support@1.1.3 - No vulnerabilities found!
+[65/260] - pkg:npm/colors@1.4.0 - No vulnerabilities found!
+[66/260] - pkg:npm/concat-map@0.0.1 - No vulnerabilities found!
+[67/260] - pkg:npm/console-control-strings@1.1.0 - No vulnerabilities found!
+[68/260] - pkg:npm/core-js@3.35.1 - No vulnerabilities found!
+[69/260] - pkg:npm/cross-spawn@4.0.2 - No vulnerabilities found!
+[70/260] - pkg:npm/crypto-js@4.2.0 - No vulnerabilities found!
+[71/260] - pkg:npm/css-line-break@2.1.0 - No vulnerabilities found!
+[72/260] - pkg:npm/css-select@5.1.0 - No vulnerabilities found!
+[73/260] - pkg:npm/css-what@6.1.0 - No vulnerabilities found!
+[74/260] - pkg:npm/csstype@3.1.2 - No vulnerabilities found!
+[75/260] - pkg:npm/date-format@4.0.14 - No vulnerabilities found!
+[76/260] - pkg:npm/debug@3.2.7 - No vulnerabilities found!
+[77/260] - pkg:npm/debug@4.3.4 - No vulnerabilities found!
+[78/260] - pkg:npm/debuglog@1.0.1 - No vulnerabilities found!
+[79/260] - pkg:npm/decompress-response@4.2.1 - No vulnerabilities found!
+[80/260] - pkg:npm/default-browser-id@5.0.0 - No vulnerabilities found!
+[81/260] - pkg:npm/default-browser@5.2.1 - No vulnerabilities found!
+[82/260] - pkg:npm/defaults@1.0.4 - No vulnerabilities found!
+[83/260] - pkg:npm/define-lazy-prop@3.0.0 - No vulnerabilities found!
+[84/260] - pkg:npm/delegates@1.0.0 - No vulnerabilities found!
+[85/260] - pkg:npm/detect-libc@2.0.2 - No vulnerabilities found!
+[86/260] - pkg:npm/dezalgo@1.0.4 - No vulnerabilities found!
+[87/260] - pkg:npm/dom-serializer@2.0.0 - No vulnerabilities found!
+[88/260] - pkg:npm/domelementtype@2.3.0 - No vulnerabilities found!
+[89/260] - pkg:npm/domhandler@5.0.3 - No vulnerabilities found!
+[90/260] - pkg:npm/dompurify@2.4.7 - No vulnerabilities found!
+[91/260] - pkg:npm/domutils@3.1.0 - No vulnerabilities found!
+[92/260] - pkg:npm/emoji-regex@8.0.0 - No vulnerabilities found!
+[93/260] - pkg:npm/entities@4.5.0 - No vulnerabilities found!
+[94/260] - pkg:npm/es6-promise@4.2.8 - No vulnerabilities found!
+[95/260] - pkg:npm/escalade@3.1.1 - No vulnerabilities found!
+[96/260] - pkg:npm/escape-string-regexp@1.0.5 - No vulnerabilities found!
+[97/260] - pkg:npm/esprima@4.0.1 - No vulnerabilities found!
+[98/260] - pkg:npm/estree-walker@2.0.2 - No vulnerabilities found!
+[99/260] - pkg:npm/face-api.js@0.22.2 - No vulnerabilities found!
+[100/260] - pkg:npm/fflate@0.4.8 - No vulnerabilities found!
+[101/260] - pkg:npm/figlet@1.7.0 - No vulnerabilities found!
+[102/260] - pkg:npm/flatted@3.2.9 - No vulnerabilities found!
+[103/260] - pkg:npm/fs-extra@11.2.0 - No vulnerabilities found!
+[104/260] - pkg:npm/fs-extra@8.1.0 - No vulnerabilities found!
+[105/260] - pkg:npm/fs-minipass@2.1.0 - No vulnerabilities found!
+[106/260] - pkg:npm/fs.realpath@1.0.0 - No vulnerabilities found!
+[107/260] - pkg:npm/function-bind@1.1.2 - No vulnerabilities found!
+[108/260] - pkg:npm/gauge@3.0.2 - No vulnerabilities found!
+[109/260] - pkg:npm/get-caller-file@2.0.5 - No vulnerabilities found!
+[110/260] - pkg:npm/glob@7.2.3 - No vulnerabilities found!
+[111/260] - pkg:npm/gm@1.25.0 - No vulnerabilities found!
+[112/260] - pkg:npm/graceful-fs@4.2.11 - No vulnerabilities found!
+[113/260] - pkg:npm/has-flag@3.0.0 - No vulnerabilities found!
+[114/260] - pkg:npm/has-flag@4.0.0 - No vulnerabilities found!
+[115/260] - pkg:npm/has-unicode@2.0.1 - No vulnerabilities found!
+[116/260] - pkg:npm/hasown@2.0.0 - No vulnerabilities found!
+[117/260] - pkg:npm/hosted-git-info@2.8.9 - No vulnerabilities found!
+[118/260] - pkg:npm/html2canvas@1.4.1 - No vulnerabilities found!
+[119/260] - pkg:npm/html2pdf.js@0.10.1 - No vulnerabilities found!
+[120/260] - pkg:npm/htmlparser2@8.0.2 - No vulnerabilities found!
+[121/260] - pkg:npm/https-proxy-agent@5.0.1 - No vulnerabilities found!
+[122/260] - pkg:npm/idb-keyval@6.2.1 - No vulnerabilities found!
+[123/260] - pkg:npm/inflight@1.0.6 - No vulnerabilities found!
+[124/260] - pkg:npm/inherits@2.0.4 - No vulnerabilities found!
+[125/260] - pkg:npm/is-core-module@2.13.1 - No vulnerabilities found!
+[126/260] - pkg:npm/is-docker@3.0.0 - No vulnerabilities found!
+[127/260] - pkg:npm/is-electron@2.2.2 - No vulnerabilities found!
+[128/260] - pkg:npm/is-fullwidth-code-point@3.0.0 - No vulnerabilities found!
+[129/260] - pkg:npm/is-inside-container@1.0.0 - No vulnerabilities found!
+[130/260] - pkg:npm/is-interactive@1.0.0 - No vulnerabilities found!
+[131/260] - pkg:npm/is-url@1.2.4 - No vulnerabilities found!
+[132/260] - pkg:npm/is-wsl@3.1.0 - No vulnerabilities found!
+[133/260] - pkg:npm/isexe@2.0.0 - No vulnerabilities found!
+[134/260] - pkg:npm/js-yaml@3.13.1 - No vulnerabilities found!
+[135/260] - pkg:npm/json-parse-even-better-errors@2.3.1 - No vulnerabilities found!
+[136/260] - pkg:npm/jsonfile@4.0.0 - No vulnerabilities found!
+[137/260] - pkg:npm/jsonfile@6.1.0 - No vulnerabilities found!
+[138/260] - pkg:npm/jspdf@2.5.1 - No vulnerabilities found!
+[139/260] - pkg:npm/lodash.defaults@4.2.0 - No vulnerabilities found!
+[140/260] - pkg:npm/log-symbols@3.0.0 - No vulnerabilities found!
+[141/260] - pkg:npm/log4js@6.9.1 - No vulnerabilities found!
+[142/260] - pkg:npm/lru-cache@4.1.5 - No vulnerabilities found!
+[143/260] - pkg:npm/lru-cache@6.0.0 - No vulnerabilities found!
+[144/260] - pkg:npm/magic-string@0.30.5 - No vulnerabilities found!
+[145/260] - pkg:npm/make-dir@3.1.0 - No vulnerabilities found!
+[146/260] - pkg:npm/mime@4.0.1 - No vulnerabilities found!
+[147/260] - pkg:npm/mimic-fn@2.1.0 - No vulnerabilities found!
+[148/260] - pkg:npm/mimic-response@2.1.0 - No vulnerabilities found!
+[149/260] - pkg:npm/minimatch@3.1.2 - No vulnerabilities found!
+[150/260] - pkg:npm/minipass@3.3.6 - No vulnerabilities found!
+[151/260] - pkg:npm/minipass@5.0.0 - No vulnerabilities found!
+[152/260] - pkg:npm/minizlib@2.1.2 - No vulnerabilities found!
+[153/260] - pkg:npm/mkdirp@1.0.4 - No vulnerabilities found!
+[154/260] - pkg:npm/ms@2.1.2 - No vulnerabilities found!
+[155/260] - pkg:npm/mute-stream@0.0.8 - No vulnerabilities found!
+[156/260] - pkg:npm/nan@2.18.0 - No vulnerabilities found!
+[157/260] - pkg:npm/nanoid@3.3.7 - No vulnerabilities found!
+[158/260] - pkg:npm/node-fetch@2.1.2 - 2 vulnerabilities found!
+
+  Vulnerability Title:  [CVE-2022-0235] CWE-200: Information Exposure
+  ID:  CVE-2022-0235
+  Description:  node-fetch is vulnerable to Exposure of Sensitive Information to an Unauthorized Actor
+  CVSS Score:  6.1
+  CVSS Vector:  CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+  CVE:  CVE-2022-0235
+  Reference:  https://ossindex.sonatype.org/vulnerability/CVE-2022-0235?component-type=npm&component-name=node-fetch&utm_source=auditjs&utm_medium=integration&utm_content=4.0.45
+  
+  Vulnerability Title:  [CVE-2020-15168] CWE-770: Allocation of Resources Without Limits or Throttling
+  ID:  CVE-2020-15168
+  Description:  node-fetch before versions 2.6.1 and 3.0.0-beta.9 did not honor the size option after following a redirect, which means that when a content size was over the limit, a FetchError would never get thrown and the process would end without failure. For most people, this fix will have a little or no impact. However, if you are relying on node-fetch to gate files above a size, the impact could be significant, for example: If you don't double-check the size of the data after fetch() has completed, your JS thread could get tied up doing work on a large file (DoS) and/or cost you money in computing.
+  CVSS Score:  5.3
+  CVSS Vector:  CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L
+  CVE:  CVE-2020-15168
+  Reference:  https://ossindex.sonatype.org/vulnerability/CVE-2020-15168?component-type=npm&component-name=node-fetch&utm_source=auditjs&utm_medium=integration&utm_content=4.0.45
+  
+[159/260] - pkg:npm/node-fetch@2.7.0 - No vulnerabilities found!
+[160/260] - pkg:npm/node-persist@3.1.3 - No vulnerabilities found!
+[161/260] - pkg:npm/nopt@5.0.0 - No vulnerabilities found!
+[162/260] - pkg:npm/normalize-package-data@2.5.0 - No vulnerabilities found!
+[163/260] - pkg:npm/npm-normalize-package-bin@1.0.1 - No vulnerabilities found!
+[164/260] - pkg:npm/npmlog@5.0.1 - No vulnerabilities found!
+[165/260] - pkg:npm/nth-check@2.1.1 - No vulnerabilities found!
+[166/260] - pkg:npm/object-assign@4.1.1 - No vulnerabilities found!
+[167/260] - pkg:npm/once@1.4.0 - No vulnerabilities found!
+[168/260] - pkg:npm/onetime@5.1.2 - No vulnerabilities found!
+[169/260] - pkg:npm/open@10.0.3 - No vulnerabilities found!
+[170/260] - pkg:npm/opencollective-postinstall@2.0.3 - No vulnerabilities found!
+[171/260] - pkg:npm/ora@4.1.1 - No vulnerabilities found!
+[172/260] - pkg:npm/parse5-htmlparser2-tree-adapter@7.0.0 - No vulnerabilities found!
+[173/260] - pkg:npm/parse5@7.1.2 - No vulnerabilities found!
+[174/260] - pkg:npm/path-is-absolute@1.0.1 - No vulnerabilities found!
+[175/260] - pkg:npm/path-parse@1.0.7 - No vulnerabilities found!
+[176/260] - pkg:npm/path2d-polyfill@2.0.1 - No vulnerabilities found!
+[177/260] - pkg:npm/pdf2html@3.1.0 - No vulnerabilities found!
+[178/260] - pkg:npm/pdfjs-dist@4.0.379 - No vulnerabilities found!
+[179/260] - pkg:npm/pdftohtmljs@0.6.0 - No vulnerabilities found!
+[180/260] - pkg:npm/performance-now@2.1.0 - No vulnerabilities found!
+[181/260] - pkg:npm/phoenix@1.7.10 - No vulnerabilities found!
+[182/260] - pkg:npm/picocolors@1.0.0 - No vulnerabilities found!
+[183/260] - pkg:npm/postcss@8.4.31 - No vulnerabilities found!
+[184/260] - pkg:npm/pseudomap@1.0.2 - No vulnerabilities found!
+[185/260] - pkg:npm/qr-scanner@1.4.2 - No vulnerabilities found!
+[186/260] - pkg:npm/raf@3.4.1 - No vulnerabilities found!
+[187/260] - pkg:npm/read-installed@4.0.3 - No vulnerabilities found!
+[188/260] - pkg:npm/read-package-json@2.1.2 - No vulnerabilities found!
+[189/260] - pkg:npm/readable-stream@3.6.2 - No vulnerabilities found!
+[190/260] - pkg:npm/readdir-scoped-modules@1.1.0 - No vulnerabilities found!
+[191/260] - pkg:npm/regenerator-runtime@0.13.11 - No vulnerabilities found!
+[192/260] - pkg:npm/regenerator-runtime@0.14.1 - No vulnerabilities found!
+[193/260] - pkg:npm/require-directory@2.1.1 - No vulnerabilities found!
+[194/260] - pkg:npm/resolve@1.22.8 - No vulnerabilities found!
+[195/260] - pkg:npm/restore-cursor@3.1.0 - No vulnerabilities found!
+[196/260] - pkg:npm/rfdc@1.3.1 - No vulnerabilities found!
+[197/260] - pkg:npm/rgbcolor@1.0.1 - No vulnerabilities found!
+[198/260] - pkg:npm/rimraf@3.0.2 - No vulnerabilities found!
+[199/260] - pkg:npm/run-applescript@7.0.0 - No vulnerabilities found!
+[200/260] - pkg:npm/safe-buffer@5.2.1 - No vulnerabilities found!
+[201/260] - pkg:npm/sdp@3.2.0 - No vulnerabilities found!
+[202/260] - pkg:npm/seedrandom@2.4.3 - No vulnerabilities found!
+[203/260] - pkg:npm/semver@5.7.2 - No vulnerabilities found!
+[204/260] - pkg:npm/semver@6.3.1 - No vulnerabilities found!
+[205/260] - pkg:npm/semver@7.5.4 - No vulnerabilities found!
+[206/260] - pkg:npm/set-blocking@2.0.0 - No vulnerabilities found!
+[207/260] - pkg:npm/signal-exit@3.0.7 - No vulnerabilities found!
+[208/260] - pkg:npm/simple-concat@1.0.1 - No vulnerabilities found!
+[209/260] - pkg:npm/simple-get@3.1.1 - No vulnerabilities found!
+[210/260] - pkg:npm/slide@1.1.6 - No vulnerabilities found!
+[211/260] - pkg:npm/source-map-js@1.0.2 - No vulnerabilities found!
+[212/260] - pkg:npm/spdx-correct@3.2.0 - No vulnerabilities found!
+[213/260] - pkg:npm/spdx-exceptions@2.4.0 - No vulnerabilities found!
+[214/260] - pkg:npm/spdx-expression-parse@3.0.1 - No vulnerabilities found!
+[215/260] - pkg:npm/spdx-license-ids@3.0.16 - No vulnerabilities found!
+[216/260] - pkg:npm/sprintf-js@1.0.3 - No vulnerabilities found!
+[217/260] - pkg:npm/ssri@8.0.1 - No vulnerabilities found!
+[218/260] - pkg:npm/stackblur-canvas@2.6.0 - No vulnerabilities found!
+[219/260] - pkg:npm/streamroller@3.1.5 - No vulnerabilities found!
+[220/260] - pkg:npm/string-width@4.2.3 - No vulnerabilities found!
+[221/260] - pkg:npm/string_decoder@1.3.0 - No vulnerabilities found!
+[222/260] - pkg:npm/strip-ansi@6.0.1 - No vulnerabilities found!
+[223/260] - pkg:npm/supports-color@5.5.0 - No vulnerabilities found!
+[224/260] - pkg:npm/supports-color@7.2.0 - No vulnerabilities found!
+[225/260] - pkg:npm/supports-preserve-symlinks-flag@1.0.0 - No vulnerabilities found!
+[226/260] - pkg:npm/svg-pathdata@6.0.3 - No vulnerabilities found!
+[227/260] - pkg:npm/tar@6.2.0 - No vulnerabilities found!
+[228/260] - pkg:npm/tesseract.js-core@5.0.0 - No vulnerabilities found!
+[229/260] - pkg:npm/tesseract.js@5.0.3 - No vulnerabilities found!
+[230/260] - pkg:npm/text-segmentation@1.0.3 - No vulnerabilities found!
+[231/260] - pkg:npm/tr46@0.0.3 - No vulnerabilities found!
+[232/260] - pkg:npm/tslib@1.14.1 - No vulnerabilities found!
+[233/260] - pkg:npm/universalify@0.1.2 - No vulnerabilities found!
+[234/260] - pkg:npm/universalify@2.0.1 - No vulnerabilities found!
+[235/260] - pkg:npm/urijs@1.19.11 - No vulnerabilities found!
+[236/260] - pkg:npm/util-deprecate@1.0.2 - No vulnerabilities found!
+[237/260] - pkg:npm/util-extend@1.0.3 - No vulnerabilities found!
+[238/260] - pkg:npm/utrie@1.0.2 - No vulnerabilities found!
+[239/260] - pkg:npm/uuid@9.0.1 - No vulnerabilities found!
+[240/260] - pkg:npm/validate-npm-package-license@3.0.4 - No vulnerabilities found!
+[241/260] - pkg:npm/vue-qrcode-reader@5.4.1 - No vulnerabilities found!
+[242/260] - pkg:npm/vue-router@4.2.5 - No vulnerabilities found!
+[243/260] - pkg:npm/vue@3.3.9 - No vulnerabilities found!
+[244/260] - pkg:npm/wasm-feature-detect@1.6.1 - No vulnerabilities found!
+[245/260] - pkg:npm/wcwidth@1.0.1 - No vulnerabilities found!
+[246/260] - pkg:npm/webidl-conversions@3.0.1 - No vulnerabilities found!
+[247/260] - pkg:npm/webrtc-adapter@8.2.3 - No vulnerabilities found!
+[248/260] - pkg:npm/whatwg-url@5.0.0 - No vulnerabilities found!
+[249/260] - pkg:npm/which@1.3.1 - No vulnerabilities found!
+[250/260] - pkg:npm/wide-align@1.1.5 - No vulnerabilities found!
+[251/260] - pkg:npm/wrap-ansi@7.0.0 - No vulnerabilities found!
+[252/260] - pkg:npm/wrappy@1.0.2 - No vulnerabilities found!
+[253/260] - pkg:npm/xmlbuilder@13.0.2 - No vulnerabilities found!
+[254/260] - pkg:npm/y18n@5.0.8 - No vulnerabilities found!
+[255/260] - pkg:npm/yallist@2.1.2 - No vulnerabilities found!
+[256/260] - pkg:npm/yallist@4.0.0 - No vulnerabilities found!
+[257/260] - pkg:npm/yargs-parser@20.2.9 - No vulnerabilities found!
+[258/260] - pkg:npm/yargs@16.2.0 - No vulnerabilities found!
+[259/260] - pkg:npm/zlibjs@0.3.1 - No vulnerabilities found!
+[260/260] - pkg:npm/zxing-wasm@1.0.0-rc.4 - No vulnerabilities found!
+
